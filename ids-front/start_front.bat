@@ -1,0 +1,1 @@
+start cmd /k "echo Starting React Frontend... && npm start"
